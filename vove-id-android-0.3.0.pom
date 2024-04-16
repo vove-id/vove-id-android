@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>VOVE-ID</groupId>
   <artifactId>vove-id-android</artifactId>
-  <version>0.2.0</version>
+  <version>0.3.0</version>
   <packaging>aar</packaging>
   <dependencies>
       <dependency>
