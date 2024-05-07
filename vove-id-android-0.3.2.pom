@@ -4,11 +4,11 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>VOVE-ID</groupId>
   <artifactId>vove-id-android</artifactId>
-  <version>0.3.0</version>
+  <version>0.3.2</version>
   <packaging>aar</packaging>
   <dependencies>
       <dependency>
-          <groupId>com.github.VOVE-ID</groupId>
+          <groupId>com.github.code-ants</groupId>
           <artifactId>face-tec</artifactId>
           <version>9.6.73</version>
       </dependency>
@@ -26,6 +26,16 @@
           <groupId>androidx.cardview</groupId>
           <artifactId>cardview</artifactId>
           <version>1.0.0</version>
+      </dependency>
+      <dependency>
+          <groupId>androidx.lifecycle/groupId>
+          <artifactId>lifecycle-viewmodel-ktx</artifactId>
+          <version>2.6.0</version>
+      </dependency>
+      <dependency>
+          <groupId>androidx.lifecycle</groupId>
+          <artifactId>lifecycle-livedata-ktx</artifactId>
+          <version>2.6.0</version>
       </dependency>
   </dependencies>
 </project>
