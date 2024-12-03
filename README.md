@@ -29,7 +29,7 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.vove.sdk:vove-sdk:1.1.5'
+    implementation 'com.vove.sdk:vove-sdk:1.1.6'
 }
 ```
 
