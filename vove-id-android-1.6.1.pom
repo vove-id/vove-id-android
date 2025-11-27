@@ -4,13 +4,13 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>VOVE-ID</groupId>
   <artifactId>vove-id-android</artifactId>
-  <version>1.6.0</version>
+  <version>1.6.1</version>
   <packaging>aar</packaging>
   <dependencies>
       <dependency>
           <groupId>com.github.code-ants</groupId>
           <artifactId>face-tec</artifactId>
-          <version>9.6.73</version>
+          <version>9.7.95</version>
       </dependency>
       <dependency>
           <groupId>androidx.core</groupId>
