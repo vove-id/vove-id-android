@@ -9,7 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>VOVE-ID</groupId>
   <artifactId>vove-id-android</artifactId>
-  <version>1.9.0</version>
+  <version>1.10.0</version>
   <packaging>aar</packaging>
   <dependencyManagement>
     <dependencies>
@@ -24,33 +24,39 @@
   </dependencyManagement>
   <dependencies>
     <dependency>
+      <groupId>androidx.activity</groupId>
+      <artifactId>activity</artifactId>
+      <version>1.7.2</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>androidx.databinding</groupId>
       <artifactId>viewbinding</artifactId>
-      <version>8.6.1</version>
+      <version>8.11.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>androidx.databinding</groupId>
       <artifactId>databinding-common</artifactId>
-      <version>8.6.1</version>
+      <version>8.11.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>androidx.databinding</groupId>
       <artifactId>databinding-runtime</artifactId>
-      <version>8.6.1</version>
+      <version>8.11.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>androidx.databinding</groupId>
       <artifactId>databinding-adapters</artifactId>
-      <version>8.6.1</version>
+      <version>8.11.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>androidx.databinding</groupId>
       <artifactId>databinding-ktx</artifactId>
-      <version>8.6.1</version>
+      <version>8.11.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
